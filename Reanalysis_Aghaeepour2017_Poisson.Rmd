@@ -22,7 +22,7 @@ Reanalysis of mass cytometry data from @aghaeepour2017immune using the Poisson L
 Parse input parameters.
 
 ```{r parse_input_parameters}
-ncells = 10
+ncells = 100
 seed = 0xdada
 ncores = 8
 zenodo_url = "https://zenodo.org/record/2652578/files/"
